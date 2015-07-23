@@ -1,0 +1,69 @@
+# Reading C:/modeltech_6.5/tcl/vsim/pref.tcl 
+# //  ModelSim SE 6.5 Jan 22 2009 
+# //
+# //  Copyright 1991-2009 Mentor Graphics Corporation
+# //              All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND 
+# //  PROPRIETARY INFORMATION WHICH IS THE PROPERTY
+# //  OF MENTOR GRAPHICS CORPORATION OR ITS LICENSORS
+# //  AND IS SUBJECT TO LICENSE TERMS.
+# //
+# OpenFile F:/Dropbox/FPGA/ECDSA_Project/INT-ALU/Multiplication/modp_192/dar_csa_multiplier_192/dar_csa_192.mpf 
+# Loading project dar_csa_192
+vsim -gui -novopt work.test_dar_csa_mult
+# vsim -gui -novopt work.test_dar_csa_mult 
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_signed(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading ieee.numeric_std(body)
+# Loading std.textio(body)
+# Loading ieee.std_logic_textio(body)
+# Loading work.dar_csa_multiplier_parameters
+# Loading work.test_dar_csa_mult(behavior)
+# Loading work.dar_csa_multiplier(rtl)
+add wave sim:/test_dar_csa_mult/*
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# ** Failure: Simulation successful (not a failure).  No problems detected. 
+#    Time: 78 us  Iteration: 0  Process: /test_dar_csa_mult/tb_proc File: F:/Dropbox/FPGA/ECDSA_Project/INT-ALU/Multiplication/modp_192/dar_csa_multiplier_192/test_dar_csa_mult_192.vhd
+# Break in Process tb_proc at F:/Dropbox/FPGA/ECDSA_Project/INT-ALU/Multiplication/modp_192/dar_csa_multiplier_192/test_dar_csa_mult_192.vhd line 166
+run
